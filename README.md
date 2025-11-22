@@ -29,6 +29,7 @@ I thrive on complexity—whether it's **fine-tuning performance**, building prot
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript" />
   <img src="https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=postgresql" />
   <img src="https://img.shields.io/badge/Code-Groovy-informational?style=flat&logo=apachegroovy" />
+  <img src="https://img.shields.io/badge/Code-Bash-informational?style=flat&logo=gnubash" />
   <br/>
 
   <!-- Databases -->
@@ -39,8 +40,23 @@ I thrive on complexity—whether it's **fine-tuning performance**, building prot
   <img src="https://img.shields.io/badge/DB-SQLite-informational?style=flat&logo=sqlite" />
   <br/>
 
+  <!-- Email & Security -->
+  <img src="https://img.shields.io/badge/Email-ESMTPS-informational?style=flat&logo=maildotru" />
+  <img src="https://img.shields.io/badge/Email-LMTP-informational?style=flat&logo=maildotru" />
+  <img src="https://img.shields.io/badge/Email-IMAP-informational?style=flat&logo=maildotru" />
+  <img src="https://img.shields.io/badge/Email-POP3S-informational?style=flat&logo=maildotru" />
+  <img src="https://img.shields.io/badge/Email-MTA_STS-informational?style=flat&logo=maildotru" />
+  <img src="https://img.shields.io/badge/Email-DANE-informational?style=flat&logo=letsencrypt" />
+  <img src="https://img.shields.io/badge/Security-Rspamd-informational?style=flat&logo=security" />
+  <img src="https://img.shields.io/badge/Security-ClamAV-informational?style=flat&logo=clamav" />
+  <br/>
+
   <!-- DevOps -->
+  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux" />
+  <img src="https://img.shields.io/badge/OS-OSX-informational?style=flat&logo=apple" />
+  <img src="https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git" />
   <img src="https://img.shields.io/badge/CI-Jenkins-informational?style=flat&logo=jenkins" />
+  <img src="https://img.shields.io/badge/CI-GitHub%20Actions-informational?style=flat&logo=githubactions" />
   <img src="https://img.shields.io/badge/Pipeline-Jenkinsfile-informational?style=flat&logo=jenkins" />
   <img src="https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker" />
   <img src="https://img.shields.io/badge/DevOps-Docker%20Compose-informational?style=flat&logo=docker" />
